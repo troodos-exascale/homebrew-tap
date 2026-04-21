@@ -2,7 +2,7 @@ class Tstow < Formula
   desc "Explicit, idempotent deployment functor for dotfiles"
   homepage "https://github.com/troodos-exascale/tstow"
   url "https://github.com/troodos-exascale/tstow.git",
-      tag:      "v1.2.0",
+      tag:      "v1.3.0",
       revision: "HEAD"
   license "Apache-2.0"
   head "https://github.com/troodos-exascale/tstow.git", branch: "main"
